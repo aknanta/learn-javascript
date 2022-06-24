@@ -32,6 +32,7 @@ const human = {
 }
 displayPerson(human)
 
+//
 function sum([first, second]){
     return first + second
 }
